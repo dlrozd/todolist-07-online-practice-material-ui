@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/dlrozd/todolist-07-online-practice-material-ui",
   "scripts": {
     "dev": "vite --port 3000",
     "build": "tsc -b && vite build",
